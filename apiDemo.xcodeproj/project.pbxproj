@@ -15,6 +15,7 @@
 		BA80B88023B59F96001CF619 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA80B87E23B59F96001CF619 /* LaunchScreen.storyboard */; };
 		BA80B88B23B59F97001CF619 /* apiDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA80B88A23B59F97001CF619 /* apiDemoTests.swift */; };
 		BA80B89623B59F97001CF619 /* apiDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA80B89523B59F97001CF619 /* apiDemoUITests.swift */; };
+		BA80B8A423B5A3BC001CF619 /* daniel-j-schwarz-lERuUa_96uo-unsplash.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BA80B8A323B5A3BC001CF619 /* daniel-j-schwarz-lERuUa_96uo-unsplash.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		BA80B89123B59F97001CF619 /* apiDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = apiDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BA80B89523B59F97001CF619 /* apiDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = apiDemoUITests.swift; sourceTree = "<group>"; };
 		BA80B89723B59F97001CF619 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BA80B8A323B5A3BC001CF619 /* daniel-j-schwarz-lERuUa_96uo-unsplash.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "daniel-j-schwarz-lERuUa_96uo-unsplash.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				BA80B87923B59F94001CF619 /* Main.storyboard */,
 				BA80B87C23B59F96001CF619 /* Assets.xcassets */,
 				BA80B87E23B59F96001CF619 /* LaunchScreen.storyboard */,
+				BA80B8A323B5A3BC001CF619 /* daniel-j-schwarz-lERuUa_96uo-unsplash.jpg */,
 				BA80B88123B59F96001CF619 /* Info.plist */,
 			);
 			path = apiDemo;
@@ -235,6 +238,7 @@
 				BA80B88023B59F96001CF619 /* LaunchScreen.storyboard in Resources */,
 				BA80B87D23B59F96001CF619 /* Assets.xcassets in Resources */,
 				BA80B87B23B59F94001CF619 /* Main.storyboard in Resources */,
+				BA80B8A423B5A3BC001CF619 /* daniel-j-schwarz-lERuUa_96uo-unsplash.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
